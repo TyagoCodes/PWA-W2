@@ -9,3 +9,9 @@
 
 # ._ files created by apple double files exfat ssd
 ._*
+
+#mac files
+.DS_Store
+.Trashes
+.AppleDouble
+.LSOverride
