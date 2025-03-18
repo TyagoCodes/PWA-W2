@@ -86,6 +86,7 @@ h1, h2, h3 {
 
 .work-item:hover {
   transform: translateY(-5px);
+  background-image: linear-gradient(90deg, #8E44AD 0%, #F39C12 49%, #2ECC71 80%, #3498DB 100%);
   box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
 
